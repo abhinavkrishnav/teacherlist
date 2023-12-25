@@ -26,6 +26,7 @@
   }
   
   .teacher-table th {
+    text-align: center;
     background-color: #3a3a3a; /* Dark gray */
     color: #ffffff;
   }
